@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VickyHowe
 - 👀 I’m interested in Software Development and Data Analysis.
 - 🌱 I’m currently a student persuing a Bachelor's Degree in Computer Science at the University of Athabasca,
-- :coffee: I am aslo  working towards completing athe Circuit Stream Software Development Bootcamp. 
+- :coffee: I am aslo  working towards completing the Circuit Stream Software Development Bootcamp. 
 - 😄 Pronouns: she/her
 
 
